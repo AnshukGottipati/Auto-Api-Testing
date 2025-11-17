@@ -12,4 +12,7 @@
      docker compose up
      ```
    - Access through localhost on port 9000
+     ```
+     localhost:9000/
+     ```
      
