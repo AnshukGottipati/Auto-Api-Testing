@@ -11,4 +11,5 @@
      ```
      docker compose up
      ```
+   - Access through localhost on port 9000
      
